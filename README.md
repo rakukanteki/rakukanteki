@@ -11,8 +11,6 @@ I am currently learning Machine Learning.<br>I find that I absorb information mu
 
 
 # 🌐Connect with me:
-
-
 <p align="left">
 <a href="https://linkedin.com/in/khondokar radwanur rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khondokar radwanur rahman" height="30" width="40" /></a>
 <a href="https://kaggle.com/radwan khondokar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="radwan khondokar" height="30" width="40" /></a>
@@ -22,8 +20,6 @@ I am currently learning Machine Learning.<br>I find that I absorb information mu
 <a href="https://codeforces.com/profile/red_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="red_01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/radwan121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="radwan121" height="30" width="40" /></a>
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakukanteki&" alt="rakukanteki" /></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rakukanteki&icon=0&color=0)](https://visitcount.itsvg.in)
