@@ -20,7 +20,4 @@ I am currently learning Machine Learning.<br>I find that I absorb information mu
 <a href="https://www.leetcode.com/radwan121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="radwan121" height="30" width="40" /></a>
 </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=rakukanteki&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
