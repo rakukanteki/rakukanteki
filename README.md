@@ -20,7 +20,7 @@ I am a passionate **machine learning enthusiast** with an educational background
 ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow&color=353535) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch&color=353535) ![Bootstrap](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask&color=353535) ![Bootstrap](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=FastAPI&color=353535)
 
 ## Other:
-![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git&color=353535) ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&color=353535)
 <hr>
 
 # Summary
