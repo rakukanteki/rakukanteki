@@ -1,0 +1,30 @@
+# Welcome to my hood! 🤜🤛:
+I am a passionate **machine learning enthusiast** with an educational background in **Electrical and Computer Engineering**. I love building impactful **web and mobile applications** that solve real-world problems. I'm also deeply interested in **Research Works**, exploring innovative solutions and advancing technology. I love playing with **TensorFlow** and **PyTorch**.
+<hr>
+
+# Skills:
+- Machine Learning.
+- Deep Learning.
+- Image Processing.
+- Computer Vision.
+<hr>
+
+# Tech Stack:
+## Programming Languages:
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&color=353535) ![Bootstrap](https://img.shields.io/badge/-C/C%2B%2B-05122A?style=flat&logo=C/C++&color=353535)
+
+## AI/DL:
+![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib&color=353535)  ![Bootstrap](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=OpenCV&color=353535)
+
+## Frameworks:
+![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow&color=353535) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch&color=353535) ![Bootstrap](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask&color=353535) ![Bootstrap](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=FastAPI&color=353535)
+
+## Other:
+![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git&color=353535)
+<hr>
+
+# Summary
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="hejazizo" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
+</div>
