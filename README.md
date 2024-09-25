@@ -25,6 +25,6 @@ I am a passionate **machine learning enthusiast** with an educational background
 
 # Summary
 <div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="hejazizo" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
+  <img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakukanteki&show_icons=true&locale=en&layout=compact" alt="Radwan" /> <br>
+  <img width="45%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rakukanteki&" alt="Radwan" />
 </div>
