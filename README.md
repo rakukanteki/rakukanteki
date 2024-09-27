@@ -1,5 +1,9 @@
 # Welcome to my hood! 🤜🤛:
-I am a passionate **machine learning enthusiast** with an educational background in **Electrical and Computer Engineering**. I love building impactful **web and mobile applications** that solve real-world problems. I'm also interested in **Research Works**. I love playing with **TensorFlow** and **PyTorch**.
+I am a passionate **machine learning enthusiast** with an educational background in **Electrical and Computer Engineering**. I love building impactful **web and mobile applications** that solve real-world problems. I'm also interested in **Research Works**. I love playing with **TensorFlow** and **PyTorch**. <br>
+
+**Reach Me:** <br>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khondokar-radwanur-rahman-45a268226/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:radwankhondokar20@gmail.com)
 <hr>
 
 # Skills:
@@ -14,8 +18,7 @@ I am a passionate **machine learning enthusiast** with an educational background
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&color=353535) ![Bootstrap](https://img.shields.io/badge/-C/C%2B%2B-05122A?style=flat&logo=C/C++&color=353535)
 
 ## Frontend:
-![Bootstrap](https://img.shields.io/badge/-ReactJs-05122A?style=flat-square&logo=ReactJs&color=353535)
-
+![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=353535)
 ## AI/DL:
 ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib&color=353535)  ![Bootstrap](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=OpenCV&color=353535)
 
