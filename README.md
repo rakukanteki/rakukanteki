@@ -1,5 +1,5 @@
 # Welcome to my hood! 🤜🤛:
-I am a passionate **machine learning enthusiast** with an educational background in **Electrical and Computer Engineering**. I love building impactful **web and mobile applications** that solve real-world problems. I'm also deeply interested in **Research Works**, exploring innovative solutions and advancing technology. I love playing with **TensorFlow** and **PyTorch**.
+I am a passionate **machine learning enthusiast** with an educational background in **Electrical and Computer Engineering**. I love building impactful **web and mobile applications** that solve real-world problems. I'm also interested in **Research Works**. I love playing with **TensorFlow** and **PyTorch**.
 <hr>
 
 # Skills:
