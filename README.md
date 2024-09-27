@@ -13,6 +13,9 @@ I am a passionate **machine learning enthusiast** with an educational background
 ## Programming Languages:
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&color=353535) ![Bootstrap](https://img.shields.io/badge/-C/C%2B%2B-05122A?style=flat&logo=C/C++&color=353535)
 
+## Frontend:
+![Bootstrap](https://img.shields.io/badge/-ReactJs-05122A?style=flat-square&logo=ReactJs&color=353535)
+
 ## AI/DL:
 ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib&color=353535)  ![Bootstrap](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=OpenCV&color=353535)
 
