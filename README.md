@@ -4,6 +4,8 @@ I am a passionate **machine learning enthusiast** with an educational background
 **Reach Me:** <br>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khondokar-radwanur-rahman-45a268226/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:radwankhondokar20@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=rakukanteki&color=blueviolet&style=plastic&label=PROFILE+VIEWS)
 <hr>
 
 ## Skills:
