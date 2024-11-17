@@ -5,7 +5,6 @@ I am a passionate **machine learning enthusiast** with an educational background
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khondokar-radwanur-rahman-45a268226/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:radwankhondokar20@gmail.com)
 
-![](https://komarev.com/ghpvc/?username=rakukanteki&color=blueviolet&style=plastic&label=PROFILE+VIEWS)
 <hr>
 
 ## Skills:
@@ -21,6 +20,10 @@ I am a passionate **machine learning enthusiast** with an educational background
 
 ### Frontend:
 ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=353535)
+
+### Backend:
+![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=353535)
+
 ### AI/DL:
 ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib&color=353535)  ![Bootstrap](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=OpenCV&color=353535)
 
