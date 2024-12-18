@@ -5,7 +5,7 @@ I am a passionate **machine learning enthusiast** with an educational background
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khondokar-radwanur-rahman-45a268226/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:radwankhondokar20@gmail.com)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/radwankhondokar)
-[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=flat&logo=codeforces&logoColor=white)]((https://codeforces.com/profile/redo404))
+[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=flat&logo=codeforces&logoColor=white)]([(https://codeforces.com/profile/redo404)](https://codeforces.com/profile/redo404))
 
 
 
