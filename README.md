@@ -12,7 +12,7 @@ I am a passionate **machine learning enthusiast** with an educational background
 ## Skills:
 - Machine Learning.
 - Deep Learning.
-- Image Processing.
+- Competitive Programming.
 - Computer Vision.
 <hr>
 
