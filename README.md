@@ -1,5 +1,8 @@
 # Radwan Khondokar:
-I am a passionate **machine learning enthusiast** with an educational background in **Electrical and Computer Engineering**. I love building impactful **web and mobile applications** that solve real-world problems. I'm also interested in **Research Works**. I love playing with **TensorFlow** and **PyTorch**. <br>
+BSc in Electrical and Computer Engineering at the Rajshahi University of Engineering and Technology. My journey into the programming world began in late 2022 and I fell in love with it. I am a passionate **Machine Learning and Data Science Enthusiast**. Currently working as a 
+**Research Assistant**. Besides, I do **Competitive Programming** and work as a **LLM Model Trainer** at **Outlier.ai**.<br>
+
+__View my resume__ here.
 
 **Reach Me:** <br>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khondokar-radwanur-rahman-45a268226/)
