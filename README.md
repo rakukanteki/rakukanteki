@@ -5,9 +5,6 @@ I am a passionate **machine learning enthusiast** with an educational background
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khondokar-radwanur-rahman-45a268226/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:radwankhondokar20@gmail.com)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/radwankhondokar)
-![](https://raw.githubusercontent.com/rakukanteki/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/rakukanteki/cf-stats/main/output/light_card.svg)
-
 <hr>
 
 ## Skills:
