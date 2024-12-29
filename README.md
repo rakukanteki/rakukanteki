@@ -1,4 +1,4 @@
-# Radwan Khondokar:
+## About Me
 BSc in **Electrical and Computer Engineering** at the Rajshahi University of Engineering and Technology(RUET). My journey into the programming world began in late 2022 and I fell in love with it. I am a passionate **Machine Learning and Data Science Enthusiast**. Currently working as a **Research Assistant**. Besides, I do **Competitive Programming** and work as **LLM Model Trainer** at Outlier.<br>
 
 __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_Resume.pdf).
