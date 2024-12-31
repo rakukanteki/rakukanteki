@@ -40,8 +40,5 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git&color=353535) ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&color=353535)
 <hr>
 
-## Summary
-<div>
-  <img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakukanteki&show_icons=true&locale=en&layout=compact" alt="Radwan" /> <br>
-  <img width="45%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rakukanteki&" alt="Radwan" />
-</div>
+## GitHub Stat:
+![Radwan's github stats](https://github-readme-stats.vercel.app/api?username=rakukanteki&theme=tokyonight&show_icons=true)
