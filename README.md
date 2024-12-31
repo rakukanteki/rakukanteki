@@ -8,6 +8,7 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:radwankhondokar20@gmail.com)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/radwankhondokar)
 [![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=radwan1210)](https://codeforces.com/profile/radwan1210)
+[![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username={radwan121})](https://leetcode.com/u/radwan121/)
 <hr>
 
 ## Skills:
