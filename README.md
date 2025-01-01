@@ -10,36 +10,14 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 [![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=radwan1210)](https://codeforces.com/profile/radwan1210)
 [![LeetCode user radwan121](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fradwan121&logo=leetcode&logoColor=yellow)](https://leetcode.com/radwan121/)
 <a href="https://wandb.ai/optimisticfellow3652" target="_blank"><img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat&logo=WeightsAndBiases&logoColor=white" alt="W&B"></a>
-
-<hr>
-
-## Skills:
-- Machine Learning.
-- Deep Learning.
-- Competitive Programming.
-- Computer Vision.
 <hr>
 
 ## Tech Stack:
-### Programming Languages:
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&color=353535) ![Bootstrap](https://img.shields.io/badge/-C/C%2B%2B-05122A?style=flat&logo=C/C++&color=353535)
-
-### Frontend:
-![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=353535)
-
-### Backend:
-![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=353535)
-
-### AI/DL:
-![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib&color=353535)  ![Bootstrap](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=OpenCV&color=353535)
-
-### Frameworks:
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&color=353535) ![Bootstrap](https://img.shields.io/badge/-C/C%2B%2B-05122A?style=flat&logo=C/C++&color=353535) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib&color=353535)  ![Bootstrap](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=OpenCV&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow&color=353535) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch&color=353535) ![Bootstrap](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask&color=353535) ![Bootstrap](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=FastAPI&color=353535)
-
-### Other:
 ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git&color=353535) ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&color=353535)
 <hr>
 
 ## GitHub Stat:
-![Radwan's github stats](https://github-readme-stats.vercel.app/api?username=rakukanteki&theme=tokyonight&show_icons=true)
+![Radwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakukanteki&theme=tokyonight&show_icons=true)
 
