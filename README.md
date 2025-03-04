@@ -19,6 +19,7 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 
 ## Experience:
 - Currently serving as a Research Assistant at Qatar University, contributing both technically and as a writer. My current focus is on **Natural Language Processing (NLP)**, where I am engaged in research and development to advance the field.
+- "I actively engage in __Machine Learning and Data Science__ competitions on Kaggle and have solved over 250 coding problems across LeetCode and Codeforces."
 
 ## Projects:
 
