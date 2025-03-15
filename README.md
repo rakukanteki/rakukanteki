@@ -22,9 +22,7 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 - I actively engage in __Machine Learning and Data Science__ competitions on Kaggle and have solved over 250 coding problems across LeetCode and Codeforces.
 - Did my Industrial Attachment as a __Software Engineering Trainee__ at ___BJIT(Bangladesh Japan Information Technology)___ a global leader in offshore software development and IT outsourcing services.
 - AI Trainer at ___Outlier___ helped in training AI models by providing assistance on coding-related tasks.
-
-## Projects:
-
+<hr>
 
 ## Achievements:
 | Competition | Placement | Organizer | Solution / Certification |
@@ -32,7 +30,12 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 | [Regression with an Insurance Dataset](https://www.kaggle.com/competitions/playground-series-s4e12) | 772th | Kaggle | [Code](https://github.com/rakukanteki/kaggle-competitions/tree/main/Regression%20with%20Insurance) |
 | [LLMs - You Can't Please Them All](https://www.kaggle.com/competitions/llms-you-cant-please-them-all) | Top 16% | Kaggle |  |
 | [5th KIBO Robot Programming Challenge 2024](http://humans-in-space.jaxa.jp/en/biz-lab/kuoa/kibo-rpc/) | 7th | JAXA | [Certificate](https://www.linkedin.com/in/khradwan/details/honors/) |
+<hr>
 
+## Projects:
+
+
+## Blogs:
 
 ## GitHub Stat:
 ![Radwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakukanteki&theme=tokyonight&show_icons=true)
