@@ -1,5 +1,5 @@
 ## About Me
-BSc in **Electrical and Computer Engineering** at the Rajshahi University of Engineering and Technology(RUET). I am a passionate **Machine Learning and Data Science Enthusiast**. Currently working as a **Research Assistant**. Besides, I do **Competitive Programming**.<br>
+BSc in **Electrical and Computer Engineering** at the Rajshahi University of Engineering and Technology(RUET). I am a passionate **Machine Learning and Data Science Enthusiast**. Currently working as a **Research Assistant**. Besides, I do **Competitive Programming** and **Machine Learning and Data Science Competitions**.<br>
 
 __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_s_CV.pdf).
 
