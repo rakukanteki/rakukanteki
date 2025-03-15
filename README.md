@@ -21,7 +21,7 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 - Currently serving as a Research Assistant at Qatar University, contributing both technically and as a writer. My current focus is on **Natural Language Processing (NLP)**, where I am engaged in research and development to advance the field.
 - I actively engage in __Machine Learning and Data Science__ competitions on Kaggle and have solved over 250 coding problems across LeetCode and Codeforces.
 - Did my Industrial Attachment as a __Software Engineering Trainee__ at ___BJIT(Bangladesh Japan Information Technology)___ a global leader in offshore software development and IT outsourcing services.
-- AI Trainer at ___Outlier___ helped in training AI models by providing assistance on coding-related tasks.
+- AI Trainer at ___Outlier___ helped in training AI models by providing assistance on coding and mathematical related tasks.
 <hr>
 
 ## Achievements:
