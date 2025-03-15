@@ -29,7 +29,7 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 ## Achievements:
 | Competition | Placement | Organizer | Code+Solution |
 |-------------|-----------|-----------|--------------|
-| Regression with an Insurance Dataset | 772th | Kaggle |  |
+| Regression with an Insurance Dataset | 772th | Kaggle | [Code](https://github.com/rakukanteki/kaggle-competitions/tree/main/Regression%20with%20Insurance) |
 | LLMs - You Can't Please Them All | Top 16% | Kaggle |  |
 
 
