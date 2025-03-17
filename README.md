@@ -33,9 +33,11 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 <hr>
 
 ## Projects:
-#### 1. ___End to End Production Grade Real Estate Price Prediction Machine Learning and Data Science Project.___
+#### 1. ___End-to-End Production Grade Real Estate Price Prediction Machine Learning and Data Science Project.___
 
 ## Blogs:
+
+## Contributions:
 
 ## GitHub Stat:
 ![Radwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakukanteki&theme=tokyonight&show_icons=true)
