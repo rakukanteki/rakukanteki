@@ -39,6 +39,7 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 Currently working on this.
 
 ## Contributions:
+1. Contributing to a book on ***Machine Learning***, ***Deep Learning***, and ***Natural Language Processing***, authored by my supervising professor. I am writing selected chapters, focusing on key topics within these domains.
 
 ## GitHub Stat:
 ![Radwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakukanteki&theme=tokyonight&show_icons=true)
