@@ -37,6 +37,8 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 ### 1. ___End-to-End Production Grade Real Estate Price Prediction Machine Learning and Data Science Project.___
   - Built a production-grade end-to-end **Real Estate House Price Prediction AI Application** integrating **Data Pipelining, OOP, MLOps, MLflow, Data Ingestion, Deployment, and CICD**. The project ensures efficient data handling and model training with automated logging and version control. It follows best MLOps practices for reproducibility and continuous monitoring. A robust CI/CD pipeline streamlines deployment and updates. The application is scalable and optimized for real-world use cases. [Go to](https://github.com/rakukanteki/Projects/tree/main/Real%20Estate%20Price%20Prediction)
 
+### 2. ___Disaster Severity Classification using Multimodal Data(Text and Image): A re-implementation of a Research Paper.___
+
 ## Blogs:
 Currently working on this.
 
