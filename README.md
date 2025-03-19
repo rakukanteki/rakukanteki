@@ -30,7 +30,7 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 | [Regression with an Insurance Dataset](https://www.kaggle.com/competitions/playground-series-s4e12) | 772th | Kaggle | [Code](https://github.com/rakukanteki/kaggle-competitions/tree/main/Regression%20with%20Insurance) |
 | [LLMs - You Can't Please Them All](https://www.kaggle.com/competitions/llms-you-cant-please-them-all) | Top 16% | Kaggle |  |
 | [5th KIBO Robot Programming Challenge 2024](http://humans-in-space.jaxa.jp/en/biz-lab/kuoa/kibo-rpc/) | 7th | JAXA | [Certificate](https://www.linkedin.com/in/khradwan/details/honors/) |
-| [Codeforces](https://codeforces.com/profile/radwan1210) | Pupil |  |  |
+| Competitive Programming | Pupil | Codeforces | [Handle](https://codeforces.com/profile/radwan1210) |
 <hr>
 
 ## Projects:
