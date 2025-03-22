@@ -35,10 +35,12 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 <hr>
 
 ## Projects:
-#### 1. ___End-to-End Production Grade Real Estate Price Prediction Machine Learning and Data Science Project.___
-  - Built a production-grade end-to-end **Real Estate House Price Prediction AI Application** integrating **Data Pipelining, OOP, MLOps, MLflow, Data Ingestion, Deployment, and CICD**. The project ensures efficient data handling and model training with automated logging and version control. A robust CI/CD pipeline streamlines deployment and updates.  [See Code](https://github.com/rakukanteki/Projects/tree/main/Real%20Estate%20Price%20Prediction)
+### 1. __Real Estate Price Prediction Machine Learning and Data Science Project__   ___[See Code](https://github.com/rakukanteki/Projects/tree/main/Real%20Estate%20Price%20Prediction)___
+  - Built a **Real Estate House Price Prediction AI Application** with **Data Pipelining, OOP, MLOps, MLflow, and CI/CD**.  
+  - Integrated **automated logging, version control, data ingestion**, and **efficient model training**.  
+  - Deployed with **Docker and AWS CI/CD for scalability and automation**. 
 
-#### 2. __PlantDoc | Smart Diagnosis for Plant Diseases__  [See Code](https://github.com/rakukanteki/Plant-Disease-Classification-using-MLflow-and-DVC)
+### 2. __PlantDoc | Smart Diagnosis for Plant Diseases__  ___[See Code](https://github.com/rakukanteki/Plant-Disease-Classification-using-MLflow-and-DVC)___
   - **MLflow Integration with DagsHub and AWS** – MLflow is used for experiment tracking, and DagsHub manages version control, while AWS ensures scalable deployment.  
   - **DVC Pipeline for Data Versioning** – Data Version Control (DVC) tracks dataset changes and maintains reproducibility across experiments.  
   - **End-to-End Model Lifecycle** – Includes **Data Ingestion, Base Model Preparation, Model Training, and Evaluation** with automated tracking in MLflow.  
