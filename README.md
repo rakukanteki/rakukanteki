@@ -34,7 +34,7 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 <hr>
 
 ## Projects:
-#### 1. __PlantDoc | Smart Diagnosis for Plant Diseases__  ___[See Code](https://github.com/rakukanteki/Plant-Disease-Classification-using-MLflow-and-DVC)___
+#### 1. __AgroVision | Smart Diagnosis for Plant Diseases__  ___[See Code](https://github.com/rakukanteki/Plant-Disease-Classification-using-MLflow-and-DVC)___
    - Designed and implemented a complete MLOps pipeline for plant disease classification using TensorFlow. Integrated DagsHub, MLflow, and DVC for experiment tracking and pipeline versioning. Developed a CI/CD  pipeline with AWS and GitHub Actions for seamless deployment. Built a Flask-based web app with HTML/CSS for real-time predictions. Followed modular coding and OOP principles to ensure scalability and maintainability. Leveraged Docker for containerization and cloud deployment for production readiness.
 
 ## Blogs:
