@@ -39,6 +39,7 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 
 ## Blogs:
 #### 1. Confusing LLMs with Adversarial Inputs. [Read](https://medium.com/p/4a2269f5e20b/edit)
+   - Wrote this blog after being inspired by a recent kaggle competition I participated in named [LLMs: You Can't Please Them All](https://www.kaggle.com/competitions/llms-you-cant-please-them-all).
 
 ## Contributions:
 1. Contributing to a book on ***Machine Learning***, ***Deep Learning***, and ***Natural Language Processing***, authored by my supervising professor. I am writing selected chapters, focusing on key topics within these domains.
