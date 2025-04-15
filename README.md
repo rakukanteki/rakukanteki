@@ -28,8 +28,8 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 ## Achievements:
 | Competition | Placement | Organizer | Solution / Certification |
 |-------------|-----------|-----------|--------------|
-| [LLMs - You Can't Please Them All](https://www.kaggle.com/competitions/llms-you-cant-please-them-all) | 272/1692 | Kaggle | [Code](https://www.kaggle.com/code/radwankhondokar/confusing-llms-with-adversial-inputs) |
-| [Synthetic to Real Object Detection Challenge](https://www.kaggle.com/competitions/synthetic-2-real-object-detection-challenge/leaderboard?tab=public) | 14/115 | Kaggle | [Code](https://www.kaggle.com/code/radwankhondokar/object-detection-yolov8x) |
+| [LLMs - You Can't Please Them All](https://www.kaggle.com/competitions/llms-you-cant-please-them-all) | Top 16% (272/1692) | Kaggle | [Code](https://www.kaggle.com/code/radwankhondokar/confusing-llms-with-adversial-inputs) |
+| [Synthetic to Real Object Detection Challenge](https://www.kaggle.com/competitions/synthetic-2-real-object-detection-challenge/leaderboard?tab=public) | Top 12% (14/115) | Kaggle | [Code](https://www.kaggle.com/code/radwankhondokar/object-detection-yolov8x) |
 | [5th KIBO Robot Programming Challenge 2024](http://humans-in-space.jaxa.jp/en/biz-lab/kuoa/kibo-rpc/) | 7/135 | JAXA | [Certificate](https://www.linkedin.com/in/khradwan/details/honors/) |
 | Competitive Programming | Pupil | Codeforces | [Handle](https://codeforces.com/profile/radwan1210) |
 <hr>
