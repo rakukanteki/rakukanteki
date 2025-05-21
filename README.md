@@ -20,9 +20,9 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 <hr>
 
 ## Experience:
-- Research Assistant at Qatar University. **Field:** Natural Language Processing. **Topics:** Multimodal Classification, Data Science, Content Writer, and Large Language Model.
+- Research Assistant at Qatar University. My field of interest: **NLP**, **Computer Vision**, **Large Language Model**
 - I actively engage in __Machine Learning and Data Science__ competitions on Kaggle and have solved over 250 coding problems across LeetCode and Codeforces.
-- AI Trainer at ___Outlier___ helped in training AI models by providing assistance on coding and math-related tasks.
+- AI Trainer at ___Outlier___ helped in training AI models by assisting with coding and math-related tasks.
 <hr>
 
 ## Achievements:
