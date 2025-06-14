@@ -41,7 +41,10 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/MyResum
    - Designed and implemented a complete **MLOps** pipeline for plant disease classification using **TensorFlow**. Integrated **DagsHub, MLflow, and DVC for experiment tracking and pipeline versioning**. Developed a **CI/CD**  pipeline with **AWS and GitHub Actions** for seamless deployment. Built a Flask-based web app with **HTML/CSS** for real-time predictions. Followed **modular coding and OOP** principles to ensure scalability and maintainability. Leveraged **Docker** for containerization and cloud deployment for production readiness.
 
 ## Research and Publications:
-1. ReliefNet: A Novel and Reliable AI-Based Multimodal Framework for Real-Time Disaster Severity Classification in Humanitarian Operations. [Demo Video](https://drive.google.com/file/d/1NB3iAfJRvainjyT_yD4z-9uiCyUi5e68/view?usp=sharing)  [ReliefNet Website](https://disasterseverity.netlify.app/) [In Review]
+1. ReliefNet: A Novel and Reliable AI-Based Multimodal Framework for Real-Time Disaster Severity Classification in Humanitarian Operations. [Under Review]
+   - **Journal:** Information Fusion.
+3. AIBlockNet - Novel Framework for Authenticity Validation using Blockchain and Machine Learning for Fake Image Detection. [Under Review]
+   - **Journal:** Multimedia Tools and Applications.
 
 ## Blogs:
 1. Confusing LLMs with Adversarial Inputs inspired by the Kaggle Competition named **`LLMs: You Can't Please Them All`**. [Read](https://medium.com/@optimisticfellow3652/confusing-llms-with-adversarial-inputs-4a2269f5e20b)
