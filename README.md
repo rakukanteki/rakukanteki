@@ -22,9 +22,7 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 <hr>
 
 ## Experience:
-- Research Assistant at Qatar University. Field of Interest: **Computer Vision, Natural Language Processing, Machine Learning**.
-- I actively engage in __Machine Learning and Data Science__ competitions on Kaggle and have solved over 250 coding problems across LeetCode and Codeforces.
-- AI Trainer at ___Outlier___ helped in training AI models by assisting with coding and math-related tasks.
+Research Assistant at Qatar University with interests in AI and Autonomous Systems. Active participant in ML and Data Science competitions on Kaggle and solved 250+ problems on LeetCode and Codeforces. Former AI Trainer at Outlier, assisting in coding and math tasks. Currently leading Software & Automation Team for Project Hangor 1.0 in RoboSub 2025, Irvine, California, hosted by RoboNation.
 <hr>
 
 ## Achievements:
@@ -41,11 +39,13 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 #### 1. __AgroVision | Smart Diagnosis for Plant Diseases__  ___[See Code](https://github.com/rakukanteki/Plant-Disease-Classification-using-MLflow-and-DVC)___
    - Designed and implemented a complete **MLOps** pipeline for plant disease classification using **TensorFlow**. Integrated **DagsHub, MLflow, and DVC for experiment tracking and pipeline versioning**. Developed a **CI/CD**  pipeline with **AWS and GitHub Actions** for seamless deployment. Built a Flask-based web app with **HTML/CSS** for real-time predictions. Followed **modular coding and OOP** principles to ensure scalability and maintainability. Leveraged **Docker** for containerization and cloud deployment for production readiness.
 
+#### 2. __Hangor 1.0 | Autonomous Underwater Vehicle__ ___[Visit](https://github.com/rakukanteki/RoboSub25)___
+   - In progress....
+
 ## Research and Publications:
 1. ReliefNet: A Novel and Reliable AI-Based Multimodal Framework for Real-Time Disaster Severity Classification in Humanitarian Operations. [Under Review]
    - **Journal:** Information Fusion.
-3. AIBlockNet - Novel Framework for Authenticity Validation using Blockchain and Machine Learning for Fake Image Detection. [Under Review]
-   - **Journal:** Multimedia Tools and Applications.
+   - 1st author.
 
 ## Blogs:
 1. Confusing LLMs with Adversarial Inputs inspired by the Kaggle Competition named **`LLMs: You Can't Please Them All`**. [Read](https://medium.com/@optimisticfellow3652/confusing-llms-with-adversarial-inputs-4a2269f5e20b)
