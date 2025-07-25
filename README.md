@@ -49,6 +49,7 @@ Research Assistant at Qatar University with interests in AI and Autonomous Syste
 
 ## Blogs:
 1. Confusing LLMs with Adversarial Inputs inspired by the Kaggle Competition named **`LLMs: You Can't Please Them All`**. [Read](https://medium.com/@optimisticfellow3652/confusing-llms-with-adversarial-inputs-4a2269f5e20b)
+2. An Overview of BengalSub Autonomous System.[Read](https://medium.com/@optimisticfellow3652/bengalsub-autonomous-system-c316e19dd994)
 
 ## Contributions:
 1. Contributed to Machine Learning Book. Wrote book chapters on **Supervised Learning**, and **Applications of Machine Learning**.
