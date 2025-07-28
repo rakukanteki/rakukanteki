@@ -47,7 +47,7 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 
 ## Research and Publications:
 1. ReliefNet: A Novel and Reliable AI-Based Multimodal Framework for Real-Time Disaster Severity Classification in Humanitarian Operations. [Under Review]
-   - **Journal:** Information Fusion.
+   - **Journal:** Engineering Applications of Artificial Intelligence.
    - 1st author.
 
 ## Blogs:
