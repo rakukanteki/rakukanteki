@@ -23,7 +23,7 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 
 ## Experience:
 - Research Assistant at Qatar University with interests in AI and Autonomous Systems.
-- Active participant in ML and Data Science competitions on Kaggle and solved 250+ problems on LeetCode and Codeforces. -
+- Active participant in ML and Data Science competitions on Kaggle and solved 250+ problems on LeetCode and Codeforces. 
 - Former AI Trainer at Outlier, assisting in coding and math tasks.
 - Currently leading Software & Automation Team for Project Hangor 1.0 in RoboSub 2025 competition, Irvine, California, hosted by RoboNation.
 <hr>
