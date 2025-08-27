@@ -39,16 +39,17 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 <hr>
 
 ## Projects:
-#### 1. __AgroVision | Smart Diagnosis for Plant Diseases__  ___[See Code](https://github.com/rakukanteki/Plant-Disease-Classification-using-MLflow-and-DVC)___
+#### 1. Autonomous Underwater Vehicle Hangor 1.0
+   - Hangor 1.0 is our first Autonomous Underwater Vehicle (AUV) developed for the 2025 RoboSub competition — the world’s most complex international robotics challenge organized by RoboNation, held in Los Angeles, California, USA from August 11 to 17. The software and autonomy system of Hangor 1.0 was built using MATLAB, Python, and ROS, with a strong focus on Computer Vision for underwater perception and task execution.
+
+#### 2. __AgroVision | Smart Diagnosis for Plant Diseases__  ___[See Code](https://github.com/rakukanteki/Plant-Disease-Classification-using-MLflow-and-DVC)___
    - Designed and implemented a complete **MLOps** pipeline for plant disease classification using **TensorFlow**. Integrated **DagsHub, MLflow, and DVC for experiment tracking and pipeline versioning**. Developed a **CI/CD**  pipeline with **AWS and GitHub Actions** for seamless deployment. Built a Flask-based web app with **HTML/CSS** for real-time predictions. Followed **modular coding and OOP** principles to ensure scalability and maintainability. Leveraged **Docker** for containerization and cloud deployment for production readiness.
 
-#### 2. __Hangor 1.0 | Autonomous Underwater Vehicle__ ___[Visit](https://github.com/rakukanteki/RoboSub25)___
-   - In progress....
+#### 3. Autonomous Free Flying Astrobee
+   - The Kibo Robot Programming Challenge tasks teams to program the free-flying Astrobee aboard the ISS to navigate, avoid obstacles, detect targets, and perform actions in microgravity. We developed our solution using Java and Android Studio, applying YOLOv8 for object detection and RViz for visualization. Our program successfully guided Astrobee through the mission, avoiding all obstacles and accurately completing the required tasks.
 
 ## Research and Publications:
-1. ReliefNet: A Novel and Reliable AI-Based Multimodal Framework for Real-Time Disaster Severity Classification in Humanitarian Operations. [Under Review]
-   - **Journal:** Engineering Applications of Artificial Intelligence.
-   - 1st author.
+
 
 ## Blogs:
 1. Confusing LLMs with Adversarial Inputs inspired by the Kaggle Competition named **`LLMs: You Can't Please Them All`**. [Read](https://medium.com/@optimisticfellow3652/confusing-llms-with-adversarial-inputs-4a2269f5e20b)
