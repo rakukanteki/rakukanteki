@@ -39,17 +39,25 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 <hr>
 
 ## Projects:
+
 #### 1. __Autonomous Underwater Vehicle Hangor 1.0__ _[See Code](https://github.com/rakukanteki/RoboSub25)_
-   - Hangor 1.0 is our first Autonomous Underwater Vehicle (AUV) developed for the 2025 RoboSub competition — the world’s most complex international robotics challenge organized by RoboNation, held in Los Angeles, California, USA from August 11 to 17. The software and autonomy system of Hangor 1.0 was built using MATLAB, Python, and ROS, with a strong focus on Computer Vision for underwater perception and task execution.
+<p align="justify">
+Hangor 1.0 is our first Autonomous Underwater Vehicle (AUV) developed for the 2025 RoboSub competition — the world’s most complex international robotics challenge organized by RoboNation, held in Los Angeles, California, USA from August 11 to 17. The software and autonomy system of Hangor 1.0 was built using MATLAB, Python, and ROS, with a strong focus on Computer Vision for underwater perception and task execution.
+</p>
 
 #### 2. __AgroVision | Smart Diagnosis for Plant Diseases__  ___[See Code](https://github.com/rakukanteki/Plant-Disease-Classification-using-MLflow-and-DVC)___
-   - Designed and implemented a complete **MLOps** pipeline for plant disease classification using **TensorFlow**. Integrated **DagsHub, MLflow, and DVC for experiment tracking and pipeline versioning**. Developed a **CI/CD**  pipeline with **AWS and GitHub Actions** for seamless deployment. Built a Flask-based web app with **HTML/CSS** for real-time predictions. Followed **modular coding and OOP** principles to ensure scalability and maintainability. Leveraged **Docker** for containerization and cloud deployment for production readiness.
+<p align="justify">
+Designed and implemented a complete <b>MLOps</b> pipeline for plant disease classification using <b>TensorFlow</b>. Integrated <b>DagsHub, MLflow, and DVC for experiment tracking and pipeline versioning</b>. Developed a <b>CI/CD</b> pipeline with <b>AWS and GitHub Actions</b> for seamless deployment. Built a Flask-based web app with <b>HTML/CSS</b> for real-time predictions. Followed <b>modular coding and OOP</b> principles to ensure scalability and maintainabilit. Leveraged <b>Docker</b> for containerization and cloud deployment for production readiness.
+</p>
 
 #### 3. Autonomous Free Flying Astrobee
-   - The Kibo Robot Programming Challenge tasks teams to program the free-flying Astrobee aboard the ISS to navigate, avoid obstacles, detect targets, and perform actions in microgravity. We developed our solution using Java and Android Studio, applying YOLOv8 for object detection and RViz for visualization. Our program successfully guided Astrobee through the mission, avoiding all obstacles and accurately completing the required tasks.
+<p align="justify">
+The Kibo Robot Programming Challenge tasks teams to program the free-flying Astrobee aboard the ISS to navigate, avoid obstacles, detect targets, and perform actions in microgravity. We developed our solution using Java and Android Studio, applying YOLOv8 for object detection and RViz for visualization. Our program successfully guided Astrobee through the mission, avoiding all obstacles and accurately completing the required tasks.
+</p>
 
 ## Research and Publications:
-
+1. Multiphase System Leak Detection, Localization, and Dimension Estimation using Multi-Head Physics Informed Neural Network. [1st Author] __(Pending)__
+2. ReliefNet: A Multimodal Framework for Real-Time Disaster Severity Classification in Humanitarian Operations [1st Author] __(Pending)__
 
 ## Blogs:
 1. Confusing LLMs with Adversarial Inputs inspired by the Kaggle Competition named **`LLMs: You Can't Please Them All`**. [Read](https://medium.com/@optimisticfellow3652/confusing-llms-with-adversarial-inputs-4a2269f5e20b)
