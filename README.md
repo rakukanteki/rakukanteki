@@ -39,7 +39,7 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 <hr>
 
 ## Projects:
-#### 1. __Autonomous Underwater Vehicle Hangor 1.0__ [See Code](https://github.com/rakukanteki/RoboSub25)
+#### 1. __Autonomous Underwater Vehicle Hangor 1.0__ _[See Code](https://github.com/rakukanteki/RoboSub25)_
    - Hangor 1.0 is our first Autonomous Underwater Vehicle (AUV) developed for the 2025 RoboSub competition — the world’s most complex international robotics challenge organized by RoboNation, held in Los Angeles, California, USA from August 11 to 17. The software and autonomy system of Hangor 1.0 was built using MATLAB, Python, and ROS, with a strong focus on Computer Vision for underwater perception and task execution.
 
 #### 2. __AgroVision | Smart Diagnosis for Plant Diseases__  ___[See Code](https://github.com/rakukanteki/Plant-Disease-Classification-using-MLflow-and-DVC)___
