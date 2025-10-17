@@ -56,10 +56,9 @@ The Kibo Robot Programming Challenge tasks teams to program the free-flying Astr
 </p>
 
 ## Research and Publications:
-1. __Multiphase System Leak Detection, Localization, and Dimension Estimation using Multi-Head Physics Informed Neural Network.__
-   * _[1st Author] (Pending)_
-3. __ReliefNet: A Multimodal Framework for Real-Time Disaster Severity Classification in Humanitarian Operations.__
-   * _[1st Author] (Pending)_
+1. __Multiphase System Leak Detection, Localization, and Dimension Estimation using Multi-Head Physics Informed Neural Network.__ [Under Review]
+2. __ReliefNet: A Multimodal Framework for Real-Time Disaster Severity Classification in Humanitarian Operations.__ [Under Review]
+3. __RoadSens-4M: A Multimodal Smartphone & Camera Dataset for Holistic Road-way Analysis__ [Under Review]
 
 ## Blogs:
 1. Confusing LLMs with Adversarial Inputs inspired by the Kaggle Competition named **`LLMs: You Can't Please Them All`**. [Read](https://medium.com/@optimisticfellow3652/confusing-llms-with-adversarial-inputs-4a2269f5e20b)
