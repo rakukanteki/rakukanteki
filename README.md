@@ -35,7 +35,7 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 | [Synthetic to Real Object Detection Challenge 1](https://www.kaggle.com/competitions/synthetic-2-real-object-detection-challenge/leaderboard?tab=public) | Top 4% (05/115) | Kaggle | [Code](https://www.kaggle.com/code/radwankhondokar/object-detection-yolov8x) |
 | [Global AI Hackathon'25 by Elucidata](https://www.kaggle.com/competitions/el-hackathon-2025/leaderboard) | Top 4% (15/355) | Kaggle | [Coming Soon] |
 | [5th KIBO Robot Programming Challenge 2024](http://humans-in-space.jaxa.jp/en/biz-lab/kuoa/kibo-rpc/) | Top 5% (7/135) | JAXA | [Acknowledgement](https://www.linkedin.com/in/khradwan/details/honors/) |
-| [RoboSub](https://robosub.org/) | 32/58 | RoboNation | [Acknowledgement]([https://www.linkedin.com/in/khradwan/details/honors/](https://www.linkedin.com/in/khradwan/overlay/1756223126800/single-media-viewer/?profileId=ACoAADiiloYBZFn2RoRGvbJMpoTmvcoQLPUmYRc)) |
+| [RoboSub'25](https://robosub.org/) | 32/58 | RoboNation | [Acknowledgement]([https://www.linkedin.com/in/khradwan/details/honors/](https://www.linkedin.com/in/khradwan/overlay/1756223126800/single-media-viewer/?profileId=ACoAADiiloYBZFn2RoRGvbJMpoTmvcoQLPUmYRc)) |
 | Competitive Programming | Pupil | Codeforces | [Handle](https://codeforces.com/profile/radwan1210) |
 <hr>
 
