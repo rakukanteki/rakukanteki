@@ -41,21 +41,19 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 
 <hr>
 
-## Projects:
-
-#### 1. __BijoyTori 1.0 | RoboBoat'26__  ___[See Code](https://github.com/rakukanteki/Plant-Disease-Classification-using-MLflow-and-DVC)___
-
-#### 2. __Hangor 1.0 | RoboSub'25__ _[See Code](https://github.com/rakukanteki/RoboSub25)_
-
-#### 3. __AgroVision | Smart Diagnosis for Plant Diseases__  ___[See Code](https://github.com/rakukanteki/Plant-Disease-Classification-using-MLflow-and-DVC)___
-
 ## Research and Publications:
 1. __Multiphase System Leak Detection, Localization, and Dimension Estimation using Multi-Head Physics Informed Neural Network.__ [Under Review]
-2. __ReliefNet: A Knowledge-Driven, Explainable AI Multimodal Framework for Disaster Severity Classification and Humanitarian Decision-Making.__ [Under Review]
-3. __RoadSens-4M: A Multimodal Smartphone & Camera Dataset for Holistic Road-way Analysis__ [Under Review]
-4. __Physics-Informed Neural Networks for Flow Regime Classification and Automated Video Retrieval in Multiphase System__ [Under Review]
-5. __A Privacy-Aware Multimodal Sensor Fusion Framework for Road Anomaly Detection in Intelligent Transportation Systems__ [Submitted]
-6. __Multiphase Flow Cuttings Transport for Non- Settling Flow in Annulus: Data in Brief__ [Submitted]
+     * Process Safety and Environmental Protection
+3. __ReliefNet: A Knowledge-Driven, Explainable AI Multimodal Framework for Disaster Severity Classification and Humanitarian Decision-Making.__ [Under Review]
+     * Progress in Disaster Science
+5. __RoadSens-4M: A Multimodal Smartphone & Camera Dataset for Holistic Road-way Analysis__ [Under Review]
+     * Scientific Nature Data 
+7. __Physics-Informed Neural Networks for Flow Regime Classification and Automated Video Retrieval in Multiphase System__ [Under Review]
+     * IEEE Transactions on Instrumentation and Measurements.
+9. __A Privacy-Aware Multimodal Sensor Fusion Framework for Road Anomaly Detection in Intelligent Transportation Systems__ [Submitted]
+     * IEEE Transactions on Intelligent Transportation System.
+11. __Multiphase Flow Cuttings Transport for Non- Settling Flow in Annulus: Data in Brief__ [Submitted]
+     * Scientific Nature Data
 
 ## Blogs:
 1. Confusing LLMs with Adversarial Inputs inspired by the Kaggle Competition named **`LLMs: You Can't Please Them All`**. [Read](https://medium.com/@optimisticfellow3652/confusing-llms-with-adversarial-inputs-4a2269f5e20b)
