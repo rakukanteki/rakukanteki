@@ -22,10 +22,9 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 <hr>
 
 ## Experience:
-- Research Assistant at Qatar University with interests in AI and Autonomous Systems.
-- Active participant in ML and Data Science competitions on Kaggle and solved 250+ problems on LeetCode and Codeforces. 
-- Former AI Trainer at Outlier, assisting in coding and math tasks.
-- Currently leading Software & Automation Team for Project Hangor 1.0 in RoboSub 2025 competition, Irvine, California, hosted by RoboNation.
+- Undergraduate Research Assistant @Qatar University Machine Learning Lab.
+- Active participant in ML and Data Science competitions on Kaggle and solved 250+ problems on LeetCode and Codeforces.
+- RoboSub | RoboBoat | NASA Mars Rover Rally 
 <hr>
 
 ## Achievements:
@@ -37,33 +36,26 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 | [Global AI Hackathon'25 by Elucidata](https://www.kaggle.com/competitions/el-hackathon-2025/leaderboard) | Top 4% (15/355) | Kaggle |  |
 | [5th KIBO Robot Programming Challenge 2024](http://humans-in-space.jaxa.jp/en/biz-lab/kuoa/kibo-rpc/) | Top 5% (7/135) | JAXA | [Acknowledgement](https://www.linkedin.com/in/khradwan/details/honors/) |
 | [RoboSub'25](https://robosub.org/) | 32/58 | RoboNation | [Acknowledgement](https://www.linkedin.com/in/khradwan/overlay/1756223126800/single-media-viewer/?profileId=ACoAADiiloYBZFn2RoRGvbJMpoTmvcoQLPUmYRc) |
-| Mars Rover Rally'25 | 6/100+ (Worldwide) | NASA Texas Space Grant Consortium | [Acknowledgement](https://www.linkedin.com/in/khradwan/overlay/Honor/1990784890/treasury/?profileId=ACoAADiiloYBZFn2RoRGvbJMpoTmvcoQLPUmYRc) |
+| [Mars Rover Rally'25](https://ig.utexas.edu/texas-space-grant/2025/space-teams-university-mars-autonomous-rover-rally-design-challenge/) | 6/100+ (Worldwide) | NASA Texas Space Grant Consortium | [Acknowledgement](https://www.linkedin.com/in/khradwan/overlay/Honor/1990784890/treasury/?profileId=ACoAADiiloYBZFn2RoRGvbJMpoTmvcoQLPUmYRc) |
 | Competitive Programming | Pupil | Codeforces | [Handle](https://codeforces.com/profile/radwan1210) |
 
 <hr>
 
 ## Projects:
 
-#### 1. __Autonomous Underwater Vehicle Hangor 1.0__ _[See Code](https://github.com/rakukanteki/RoboSub25)_
-<p align="justify">
-Hangor 1.0 is our first Autonomous Underwater Vehicle (AUV) developed for the 2025 RoboSub competition — the world’s most complex international robotics challenge organized by RoboNation, held in Los Angeles, California, USA from August 11 to 17. The software and autonomy system of Hangor 1.0 was built using MATLAB, Python, and ROS, with a strong focus on Computer Vision for underwater perception and task execution.
-</p>
+#### 1. __BijoyTori 1.0 | RoboBoat'26__  ___[See Code](https://github.com/rakukanteki/Plant-Disease-Classification-using-MLflow-and-DVC)___
 
-#### 2. __AgroVision | Smart Diagnosis for Plant Diseases__  ___[See Code](https://github.com/rakukanteki/Plant-Disease-Classification-using-MLflow-and-DVC)___
-<p align="justify">
-Designed and implemented a complete <b>MLOps</b> pipeline for plant disease classification using <b>TensorFlow</b>. Integrated <b>DagsHub, MLflow, and DVC for experiment tracking and pipeline versioning</b>. Developed a <b>CI/CD</b> pipeline with <b>AWS and GitHub Actions</b> for seamless deployment. Built a Flask-based web app with <b>HTML/CSS</b> for real-time predictions. Followed <b>modular coding and OOP</b> principles to ensure scalability and maintainabilit. Leveraged <b>Docker</b> for containerization and cloud deployment for production readiness.
-</p>
+#### 2. __Hangor 1.0 | RoboSub'25__ _[See Code](https://github.com/rakukanteki/RoboSub25)_
 
-#### 3. Autonomous Free Flying Astrobee
-<p align="justify">
-The Kibo Robot Programming Challenge tasks teams to program the free-flying Astrobee aboard the ISS to navigate, avoid obstacles, detect targets, and perform actions in microgravity. We developed our solution using Java and Android Studio, applying YOLOv8 for object detection and RViz for visualization. Our program successfully guided Astrobee through the mission, avoiding all obstacles and accurately completing the required tasks.
-</p>
+#### 3. __AgroVision | Smart Diagnosis for Plant Diseases__  ___[See Code](https://github.com/rakukanteki/Plant-Disease-Classification-using-MLflow-and-DVC)___
 
 ## Research and Publications:
 1. __Multiphase System Leak Detection, Localization, and Dimension Estimation using Multi-Head Physics Informed Neural Network.__ [Under Review]
 2. __ReliefNet: A Knowledge-Driven, Explainable AI Multimodal Framework for Disaster Severity Classification and Humanitarian Decision-Making.__ [Under Review]
 3. __RoadSens-4M: A Multimodal Smartphone & Camera Dataset for Holistic Road-way Analysis__ [Under Review]
-4. __Physics-Informed Neural Networks for Flow Regime Classification and Automated Video Retrieval in Multiphase System__ [Submitted]
+4. __Physics-Informed Neural Networks for Flow Regime Classification and Automated Video Retrieval in Multiphase System__ [Under Review]
+5. __A Privacy-Aware Multimodal Sensor Fusion Framework for Road Anomaly Detection in Intelligent Transportation Systems__ [Submitted]
+6. __Multiphase Flow Cuttings Transport for Non- Settling Flow in Annulus: Data in Brief__ [Submitted]
 
 ## Blogs:
 1. Confusing LLMs with Adversarial Inputs inspired by the Kaggle Competition named **`LLMs: You Can't Please Them All`**. [Read](https://medium.com/@optimisticfellow3652/confusing-llms-with-adversarial-inputs-4a2269f5e20b)
