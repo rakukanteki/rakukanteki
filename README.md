@@ -1,7 +1,7 @@
 ## About Me
 BSc in **Electrical and Computer Engineering** at the Rajshahi University of Engineering and Technology(RUET). I am a passionate **Machine Learning and Data Science Enthusiast**. Currently working as a **Research Assistant**. Besides, I do **Competitive Programming** and **Machine Learning and Data Science Competitions**.<br>
 
-__View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_CV.pdf).
+__View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_Resume.pdf).
 
 **My Linktree:** <br><br>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khondokar-radwanur-rahman-45a268226/)
