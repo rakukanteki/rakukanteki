@@ -45,17 +45,19 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 
 ## Research and Publications:
 1. __Multiphase System Leak Detection, Localization, and Dimension Estimation using Multi-Head Physics Informed Neural Network.__ [Under Review]
-     * Process Safety and Environmental Protection
+    * Process Safety and Environmental Protection
 3. __ReliefNet: A Knowledge-Driven, Explainable AI Multimodal Framework for Disaster Severity Classification and Humanitarian Decision-Making.__ [Under Review]
-     * Progress in Disaster Science
+    * Progress in Disaster Science
 5. __RoadSens-4M: A Multimodal Smartphone & Camera Dataset for Holistic Road-way Analysis__ [Under Review]
-     * Scientific Nature Data 
+    * Scientific Nature Data 
 7. __Physics-Informed Neural Networks for Flow Regime Classification and Automated Video Retrieval in Multiphase System__ [Under Review]
-     * IEEE Transactions on Instrumentation and Measurements.
+    * IEEE Transactions on Instrumentation and Measurements.
 9. __A Privacy-Aware Multimodal Sensor Fusion Framework for Road Anomaly Detection in Intelligent Transportation Systems__ [Submitted]
-     * IEEE Transactions on Intelligent Transportation System.
+    * IEEE Transactions on Intelligent Transportation System.
 11. __Multiphase Flow Cuttings Transport for Non- Settling Flow in Annulus: Data in Brief__ [Submitted]
-     * Scientific Nature Data
+    * Scientific Nature Data
+12. __ROS2 Based Autonomous Wheelchair with Adaptive Navigation and LLM-Driven Conversational Control.__
+    * 28th IEEE ICCIT
 
 ## Blogs:
 1. Confusing LLMs with Adversarial Inputs inspired by the Kaggle Competition named **`LLMs: You Can't Please Them All`**. [Read](https://medium.com/@optimisticfellow3652/confusing-llms-with-adversarial-inputs-4a2269f5e20b)
