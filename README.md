@@ -12,6 +12,7 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 <a href="https://wandb.ai/optimisticfellow3652" target="_blank"><img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat&logo=WeightsAndBiases&logoColor=white" alt="W&B"></a>
 [![ORCID](https://img.shields.io/badge/ORCID-a6ce39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-5939-2450)
 [![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat&logo=Mathworks&logoColor=white)](https://www.mathworks.com/matlabcentral/profile/authors/45203850)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-blue?style=flat&logo=GoogleScholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_NEW_USER_ID&hl=en)
 <hr>
 
 ## Tech Stack:
