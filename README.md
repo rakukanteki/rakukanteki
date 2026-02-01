@@ -44,7 +44,7 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 <hr>
 
 ## Research and Publications:
-1. __Multiphase System Leak Detection, Localization, and Dimension Estimation using Multi-Head Physics Informed Neural Network.__ [Under Review]
+1. __Multiphase System Leak Detection, Localization, and Dimension Estimation using Multi-Head Physics Informed Neural Network.__ (https://doi.org/10.1016/j.psep.2026.108532)
     * Process Safety and Environmental Protection
 3. __ReliefNet: A Knowledge-Driven, Explainable AI Multimodal Framework for Disaster Severity Classification and Humanitarian Decision-Making.__ [Under Review]
     * Progress in Disaster Science
