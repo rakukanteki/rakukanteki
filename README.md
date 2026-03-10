@@ -46,9 +46,9 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 ## Research and Publications:
 1. __Multiphase System Leak Detection, Localization, and Dimension Estimation using Multi-Head Physics Informed Neural Network.__ (https://doi.org/10.1016/j.psep.2026.108532)
     * Process Safety and Environmental Protection
-3. __ReliefNet: A Knowledge-Driven, Explainable AI Multimodal Framework for Disaster Severity Classification and Humanitarian Decision-Making.__ [Under Review]
+3. __ReliefNet: A Knowledge-Driven, Explainable AI Multimodal Framework for Disaster Severity Classification and Humanitarian Decision-Making.__ (https://doi.org/10.1016/j.pdisas.2026.100528)
     * Progress in Disaster Science
-5. __RoadSens-4M: A Multimodal Smartphone & Camera Dataset for Holistic Road-way Analysis__ [Under Review]
+5. __RoadSens-4M: A Multimodal Smartphone & Camera Dataset for Holistic Road-way Analysis__ (https://arxiv.org/abs/2510.25211)
     * Scientific Nature Data 
 7. __Physics-Informed Neural Networks for Flow Regime Classification and Automated Video Retrieval in Multiphase System__ [Under Review]
     * IEEE Transactions on Instrumentation and Measurements.
