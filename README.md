@@ -44,20 +44,9 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 <hr>
 
 ## Research and Publications:
-1. __Multiphase System Leak Detection, Localization, and Dimension Estimation using Multi-Head Physics Informed Neural Network.__ (https://doi.org/10.1016/j.psep.2026.108532)
-    * Process Safety and Environmental Protection
-3. __ReliefNet: A Knowledge-Driven, Explainable AI Multimodal Framework for Disaster Severity Classification and Humanitarian Decision-Making.__ (https://doi.org/10.1016/j.pdisas.2026.100528)
-    * Progress in Disaster Science
-5. __RoadSens-4M: A Multimodal Smartphone & Camera Dataset for Holistic Road-way Analysis__ (https://arxiv.org/abs/2510.25211)
-    * Scientific Nature Data 
-7. __Physics-Informed Neural Networks for Flow Regime Classification and Automated Video Retrieval in Multiphase System__ [Under Review]
-    * IEEE Transactions on Instrumentation and Measurements.
-9. __A Privacy-Aware Multimodal Sensor Fusion Framework for Road Anomaly Detection in Intelligent Transportation Systems__ [Submitted]
-    * IEEE Transactions on Intelligent Transportation System.
-11. __Multiphase Flow Cuttings Transport for Non- Settling Flow in Annulus: Data in Brief__ [Submitted]
-    * Scientific Nature Data
-12. __ROS2 Based Autonomous Wheelchair with Adaptive Navigation and LLM-Driven Conversational Control.__
-    * 28th IEEE ICCIT
+1. Khondokar Radwanur Rahman, Amith Khandakar, Md. Fahim Hossen, Shaikh Golam Rabbani, Aniruddha Saha, Md. Faysal Ahamed, Md. Munawar Hossain, Mohamed Arselene Ayari, Rajab Abdulla R.E. Al-Esmail, ReliefNet: A Knowledge-Driven, Explainable AI Multimodal Framework for Disaster Severity Classification and Humanitarian Decision-Making, Progress in Disaster Science, Volume 29, 2026, 100528, ISSN 2590-0617, https://doi.org/10.1016/j.pdisas.2026.100528.
+2. Khondokar Radwanur Rahman, Amith Khandakar, Abinash Barooah, Mohamed Arselene Ayari, Mohammad Azizur Rahman, Multiphase system leak detection, localization, and dimension estimation using multi-head Physics-informed neural network, Process Safety and Environmental Protection, Volume 211, 2026, 108532, ISSN 0957-5820, https://doi.org/10.1016/j.psep.2026.108532.
+3. Rahul Debnath, Tajim An Noor, Khondokar Radwanur Rahman, Md. Monuwar Hussen, Md. Faysal Ahamed and Moloy Kumar Ghosh, "ROS2-Based Autonomous Wheelchair with Adaptive Navigation and LLM-Driven Conversational Control," 2025 28th International Conference on Computer and Information Technology (ICCIT), Cox's Bazar, Bangladesh, 2025, pp. 1-6, doi: 10.1109/ICCIT68739.2025.11490350. 
 
 ## Blogs:
 1. Confusing LLMs with Adversarial Inputs inspired by the Kaggle Competition named **`LLMs: You Can't Please Them All`**. [Read](https://medium.com/@optimisticfellow3652/confusing-llms-with-adversarial-inputs-4a2269f5e20b)
