@@ -24,9 +24,8 @@ __View my resume__ [here](https://github.com/rakukanteki/files/blob/main/Radwan_
 ## Experience:
 - Undergraduate Research Assistant @Qatar University Machine Learning Lab, Remote.
 - Active participant in ML and Data Science competitions on Kaggle and solved 250+ problems on LeetCode and Codeforces.
-- Software and Autonomous System Lead @BengalSub. Team BengalSub has participated in 28th RoboSub competition held in Irvine, California, USA.
-- Software and Autonomous System Lead @BengalBoat. Team BengalBoat is going to participate in RoboBoat 2026 competition in Sarasota, Florida, USA.
-- ChalkPad App Developer @Reflective Teens Trust, Dhaka, Bangladesh.
+- Software and Autonomous System Lead @BengalSub. Participant in RoboSub hosted by RoboNation.
+- Software and Autonomous Team Member @BengalBoat. Participant in RoboBoat hosted by RoboNation.
 <hr>
 
 ## Achievements:
